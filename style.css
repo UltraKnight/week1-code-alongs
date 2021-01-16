@@ -1,0 +1,33 @@
+body {
+    background-color: #A75848;
+}
+
+
+.blue-box {
+    background-color: blue;
+    height: 200px;
+    width: 500px;
+    margin-bottom: 35px;
+    text-align: center;
+}
+
+.green-box {
+    background-color: rgb(72, 167, 101, 0.3);
+    height: 400px;
+    width: 100px;
+}
+
+.yellow-box {
+    background-color: yellow;
+    height: 50px;
+    width: 900px;
+}
+
+.font {
+    color: white;
+    font-size: 38px;
+}
+
+#someDiv {
+    background-color: aqua;
+}
